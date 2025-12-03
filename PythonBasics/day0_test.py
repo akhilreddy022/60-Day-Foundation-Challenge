@@ -1,1 +1,1 @@
-print("Day 0: Setup Success!")
+print("Mac M1 Setup Complete!")
